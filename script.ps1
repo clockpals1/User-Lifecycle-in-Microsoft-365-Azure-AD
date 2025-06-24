@@ -3,7 +3,7 @@ Import-Module AzureAD
 Import-Module MSOnline
 Import-Module ExchangeOnlineManagement
 
-# Connect to services
+# Connect to Azure services
 Connect-AzureAD
 Connect-MsolService
 Connect-ExchangeOnline -UserPrincipalName admin@yourdomain.com
