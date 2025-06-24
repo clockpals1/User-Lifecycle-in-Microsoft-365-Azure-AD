@@ -1,6 +1,6 @@
 # Automated User Provisioning and Management in Microsoft 365 & Azure AD
 
-This guide explains, in simple terms, how to use a PowerShell script and a CSV file to automate the setup and management of new users in a Microsoft 365 and Azure Active Directory environment. This process is perfect for IT administrators who want to save time, reduce manual errors, and ensure new team members are ready to work on day one.
+This guide explains, in simple terms, how to use the PowerShell script and a CSV file to automate the setup and management of new users in a Microsoft 365 and Azure Active Directory environment. This process is perfect for IT administrators who want to save time, reduce manual errors, and ensure new team members are ready to work on day one.
 
 ---
 
